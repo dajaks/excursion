@@ -1,0 +1,24 @@
+html {
+    background-color: black;
+    font-family: "Goudy Old Style", "Calisto MT", serif;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+
+.download {
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+
+.secondary h3 {
+    color: rgb(88, 83, 83)
+}
+
+footer {
+    margin-top: 25px;
+}
